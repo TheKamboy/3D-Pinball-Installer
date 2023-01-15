@@ -3,7 +3,7 @@ title 3D Pinball Installer
 SETLOCAL ENABLEDELAYEDEXPANSION
 
 echo Installing...
-echo Select "D"...
+if EXIST "C:\Pinball\Pinball.exe" (echo Type "A") else (echo Select "D"...)
 xcopy /E Pinball "C:\Pinball"
 set TARGET='C:\Pinball\PINBALL.EXE'
 set SHORTCUT='C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Pinball.lnk'
