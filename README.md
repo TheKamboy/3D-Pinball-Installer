@@ -1,6 +1,9 @@
 # 3D-Pinball-Installer
 I made this while I was tired. Help.
 
+# How to install/update
+
+
 # Updates
 
 ## v1.0
