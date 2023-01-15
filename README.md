@@ -11,3 +11,4 @@ The first version!
 
 ## v1.1
 Updated to use a decompiled version to get music working.
+Still will have x64 and x86 support combined.
